@@ -1,4 +1,4 @@
-# 🖥️ Taller — Monitor de Procesos
+# Taller — Monitor de Procesos
 
 > Del listado de procesos a la observación real del planificador de CPU
 
@@ -8,7 +8,7 @@ En este taller se construye desde cero una pequeña herramienta de monitoreo sim
 
 ---
 
-## 📁 Estructura del proyecto
+##  Estructura del proyecto
 
 ```
 MonitorProcesos/
